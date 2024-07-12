@@ -1,10 +1,10 @@
 ﻿{
   "Info": {
     "AddinVersion": "4.0.34",
-    "AccessVersion": "16.0 64-bit"
+    "AccessVersion": "15.0 32-bit"
   },
   "Options": {
-    "ExportFolder": "C:\\pr3\\PruebaAccess",
+    "ExportFolder": "C:\\GIT\\PruebaAccess",
     "ShowDebug": false,
     "UseFastSave": true,
     "UseMergeBuild": false,
