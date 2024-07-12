@@ -1,10 +1,10 @@
 ﻿{
   "Info": {
     "AddinVersion": "4.0.34",
-    "AccessVersion": "15.0 32-bit"
+    "AccessVersion": "16.0 64-bit"
   },
   "Options": {
-    "ExportFolder": "C:\\GIT\\WPROG 1",
+    "ExportFolder": "C:\\pr3\\PruebaAccess",
     "ShowDebug": false,
     "UseFastSave": true,
     "UseMergeBuild": false,

@@ -91,18 +91,14 @@ Begin Form
                     OverlapFlags =85
                     Left =1757
                     Top =3118
-                    ForeColor =4210752
                     Name ="Comando0"
                     Caption ="Comando0"
                     OnClick ="[Event Procedure]"
-                    GridlineColor =10921638
 
                     LayoutCachedLeft =1757
                     LayoutCachedTop =3118
                     LayoutCachedWidth =3458
                     LayoutCachedHeight =3401
-                    BackColor =14136213
-                    BorderColor =14136213
                 End
                 Begin Label
                     OverlapFlags =85
@@ -110,11 +106,8 @@ Begin Form
                     Top =1245
                     Width =2025
                     Height =285
-                    BorderColor =8355711
-                    ForeColor =8355711
                     Name ="Etiqueta1"
                     Caption ="ESTA E SUNA PRUEBA"
-                    GridlineColor =10921638
                     LayoutCachedLeft =1305
                     LayoutCachedTop =1245
                     LayoutCachedWidth =3330
@@ -129,13 +122,10 @@ Begin Form
                     Width =1440
                     Height =3969
                     TabIndex =1
-                    ForeColor =4210752
-                    BorderColor =10921638
                     Name ="Lista2"
                     RowSourceType ="Value List"
                     RowSource ="1"
                     ColumnWidths ="1440"
-                    GridlineColor =10921638
 
                     LayoutCachedLeft =4081
                     LayoutCachedTop =453
@@ -148,11 +138,8 @@ Begin Form
                             Top =453
                             Width =555
                             Height =320
-                            BorderColor =8355711
-                            ForeColor =8355711
                             Name ="Col1_Etiqueta"
                             Caption ="Col1"
-                            GridlineColor =10921638
                             LayoutCachedLeft =2380
                             LayoutCachedTop =453
                             LayoutCachedWidth =2935
