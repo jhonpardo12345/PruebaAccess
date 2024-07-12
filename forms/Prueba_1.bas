@@ -9,11 +9,11 @@ Begin Form
     GridY =10
     Width =6994
     DatasheetFontHeight =11
-    ItemSuffix =3
-    Right =12960
-    Bottom =7185
+    ItemSuffix =2
+    Right =21270
+    Bottom =12510
     RecSrcDt = Begin
-        0x539131316e35e640
+        0x54b06402b735e640
     End
     DatasheetFontName ="Calibri"
     AllowDatasheetView =0
@@ -39,37 +39,9 @@ Begin Form
             BorderThemeColorIndex =0
             BorderTint =50.0
             ForeThemeColorIndex =0
-            ForeTint =60.0
+            ForeTint =50.0
             GridlineThemeColorIndex =1
             GridlineShade =65.0
-        End
-        Begin CommandButton
-            Width =1701
-            Height =283
-            FontSize =11
-            FontWeight =400
-            FontName ="Calibri"
-            ForeThemeColorIndex =0
-            ForeTint =75.0
-            GridlineThemeColorIndex =1
-            GridlineShade =65.0
-            UseTheme =1
-            Shape =1
-            Gradient =12
-            BackThemeColorIndex =4
-            BackTint =60.0
-            BorderLineStyle =0
-            BorderThemeColorIndex =4
-            BorderTint =60.0
-            ThemeFontIndex =1
-            HoverThemeColorIndex =4
-            HoverTint =40.0
-            PressedThemeColorIndex =4
-            PressedShade =75.0
-            HoverForeThemeColorIndex =0
-            HoverForeTint =75.0
-            PressedForeThemeColorIndex =0
-            PressedForeTint =75.0
         End
         Begin TextBox
             AddColon = NotDefault
@@ -97,61 +69,38 @@ Begin Form
             AlternateBackShade =95.0
             BackThemeColorIndex =1
             Begin
-                Begin CommandButton
-                    OverlapFlags =93
-                    Left =1530
-                    Top =963
-                    Width =1758
-                    Height =1588
-                    ForeColor =4210752
-                    Name ="Comando0"
-                    Caption ="Comando0"
-                    GridlineColor =10921638
-
-                    LayoutCachedLeft =1530
-                    LayoutCachedTop =963
-                    LayoutCachedWidth =3288
-                    LayoutCachedHeight =2551
-                    BackColor =14136213
-                    BorderColor =14136213
-                    HoverColor =15060409
-                    PressedColor =9592887
-                    HoverForeColor =4210752
-                    PressedForeColor =4210752
-                    Overlaps =1
-                End
                 Begin TextBox
-                    OverlapFlags =85
+                    OverlapFlags =215
                     IMESentenceMode =3
-                    Left =4082
+                    Left =680
                     Top =963
-                    Width =2211
-                    Height =1665
-                    TabIndex =1
+                    Width =5045
+                    Height =3825
+                    BackColor =5026082
                     BorderColor =10921638
                     ForeColor =4210752
-                    Name ="Texto1"
+                    Name ="Texto0"
+                    ControlSource ="ULRTIMA PRUEBA"
                     GridlineColor =10921638
 
-                    LayoutCachedLeft =4082
+                    LayoutCachedLeft =680
                     LayoutCachedTop =963
-                    LayoutCachedWidth =6293
-                    LayoutCachedHeight =2628
+                    LayoutCachedWidth =5725
+                    LayoutCachedHeight =4788
+                    BackThemeColorIndex =-1
                     Begin
                         Begin Label
-                            OverlapFlags =215
-                            Left =2381
+                            OverlapFlags =93
                             Top =963
                             Width =705
                             Height =315
                             BorderColor =8355711
-                            ForeColor =6710886
-                            Name ="Etiqueta2"
-                            Caption ="Texto1"
+                            ForeColor =8355711
+                            Name ="Etiqueta1"
+                            Caption ="Texto0"
                             GridlineColor =10921638
-                            LayoutCachedLeft =2381
                             LayoutCachedTop =963
-                            LayoutCachedWidth =3086
+                            LayoutCachedWidth =705
                             LayoutCachedHeight =1278
                         End
                     End
