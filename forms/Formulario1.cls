@@ -8,6 +8,6 @@ Private Sub Comando0_Click()
 
 
 
-MsgBox "Esta es una prueba yyyyyyy", vbCritical
+MsgBox "Esta es una prueba yyyyyyygggggg", vbCritical
 
 End Sub

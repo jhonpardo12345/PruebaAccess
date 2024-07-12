@@ -53,7 +53,7 @@
       "Type": 4
     },
     "CollatingOrder": {
-      "Value": 1034,
+      "Value": 3082,
       "Type": 3
     },
     "Connect": {
@@ -105,7 +105,7 @@
       "Type": 4
     },
     "ProjVer": {
-      "Value": 139,
+      "Value": 140,
       "Type": 3
     },
     "QueryTimeout": {
